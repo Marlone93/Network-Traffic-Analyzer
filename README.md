@@ -1,6 +1,6 @@
 Setup:
 1. Install Python
-2. Install Npcap
+2. Install Winpcap
 3. Run Network-Traffic-Analyzer.py
 4. Network traffic will be in the network_traffic.txt
 
